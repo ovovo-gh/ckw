@@ -210,10 +210,11 @@ export function createService({
         license: text(data.license, 300) || "用户上传 · 请保留原作者信息",
         sourceOnly: false,
       });
-      const existing=await store.get('wallpaper_'+id);
+      const existing = await store.get("wallpaper_" + id);
       if (!out.images.length && !existing?.image) fail("请上传一张壁纸");
-      out.sourceOnly=!out.images.length&&existing?.sourceOnly===true;
-      out.compatibleDevices=out.device==='desktop'?['desktop','tablet']:[out.device];
+      out.sourceOnly = !out.images.length && existing?.sourceOnly === true;
+      out.compatibleDevices =
+        out.device === "desktop" ? ["desktop", "tablet"] : [out.device];
     }
     for (const imageId of out.images || []) {
       const media = await store.get("media_" + imageId);

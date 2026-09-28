@@ -1,4 +1,11 @@
-import { mkdir, copyFile, writeFile, cp, readFile, chmod } from "node:fs/promises";
+import {
+  mkdir,
+  copyFile,
+  writeFile,
+  cp,
+  readFile,
+  chmod,
+} from "node:fs/promises";
 await mkdir(".deploy/functions/space", { recursive: true });
 for (const file of ["core.mjs", "store.mjs", "seed.json", "index.js"])
   await copyFile("backend/" + file, ".deploy/functions/space/" + file);
@@ -9,7 +16,10 @@ await writeFile(
       name: "chiikawa-space-api",
       version: "1.0.0",
       private: true,
-      dependencies: { "@cloudbase/js-sdk": "3.10.1", "@cloudbase/signature-nodejs": "^2.0.0" },
+      dependencies: {
+        "@cloudbase/js-sdk": "3.10.1",
+        "@cloudbase/signature-nodejs": "^2.0.0",
+      },
     },
     null,
     2,
@@ -29,7 +39,15 @@ await writeFile(
           memorySize: 256,
           timeout: 60,
           installDependency: true,
-          envVariables: { SPACE_ENV_ID: process.env.CLOUDBASE_ENV, CLOUDBASE_APIKEY: JSON.parse(await readFile(".local/cloudbase-backend-key.json", "utf8")).data.ApiKey, SPACE_ACCOUNTS_B64: (await readFile(".local/accounts.json")).toString("base64") },
+          envVariables: {
+            SPACE_ENV_ID: process.env.CLOUDBASE_ENV,
+            CLOUDBASE_APIKEY: JSON.parse(
+              await readFile(".local/cloudbase-backend-key.json", "utf8"),
+            ).data.ApiKey,
+            SPACE_ACCOUNTS_B64: (
+              await readFile(".local/accounts.json")
+            ).toString("base64"),
+          },
         },
       ],
     },

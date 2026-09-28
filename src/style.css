@@ -2652,6 +2652,37 @@ footer,
   }
 }
 
-.search input:not([type="checkbox"]):not([type="file"]) { border: 0; background: transparent; outline: none; padding: 0; min-height: 0; border-radius: 0; }
-.eyebrow, .nav-caption, .page-heading p, .welcome p, .stat div>span, .first-collection p, .card-body>small, .card-bottom, .series-progress, .result-summary, .wallpaper-caption>span, .field small, .catalog-note, .form-footnote, .source-link, footer { color: #71848e; }
-@media (max-width:700px) { .sidebar { visibility: hidden; } .sidebar.open { visibility: visible; } }
+.search input:not([type="checkbox"]):not([type="file"]) {
+  border: 0;
+  background: transparent;
+  outline: none;
+  padding: 0;
+  min-height: 0;
+  border-radius: 0;
+}
+.eyebrow,
+.nav-caption,
+.page-heading p,
+.welcome p,
+.stat div > span,
+.first-collection p,
+.card-body > small,
+.card-bottom,
+.series-progress,
+.result-summary,
+.wallpaper-caption > span,
+.field small,
+.catalog-note,
+.form-footnote,
+.source-link,
+footer {
+  color: #71848e;
+}
+@media (max-width: 700px) {
+  .sidebar {
+    visibility: hidden;
+  }
+  .sidebar.open {
+    visibility: visible;
+  }
+}

@@ -9,21 +9,21 @@ export function setToken(value) {
 export async function api(action, body = {}) {
   const data = { action, ...body, token };
   let result;
-    let response;
-    try {
-      response = await fetch(import.meta.env.VITE_API_URL || "/api", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(data),
-      });
-    } catch {
-      throw Error("连接中断，请检查网络后重试");
-    }
-    try {
-      result = await response.json();
-    } catch {
-      throw Error("服务暂时不可用，请稍后重试");
-    }
+  let response;
+  try {
+    response = await fetch(import.meta.env.VITE_API_URL || "/api", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(data),
+    });
+  } catch {
+    throw Error("连接中断，请检查网络后重试");
+  }
+  try {
+    result = await response.json();
+  } catch {
+    throw Error("服务暂时不可用，请稍后重试");
+  }
   if (!result?.ok) {
     const e = new Error(result?.error || "操作失败，请重试");
     e.status = result?.status;
