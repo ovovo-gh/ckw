@@ -34,7 +34,7 @@
 
 - 用户已接受先做 CloudBase 免费测试版，正式长期上线另行确定。
 - 用户已完成腾讯云注册和 CLI 授权；已部署到上海地域 PG 体验环境 `gh-d0g7evem069de6a44`。
-- GitHub 目标仓库：https://github.com/ovovo-gh/ckw.git（本地代码已提交，待 GitHub 写入授权）。
+- GitHub 仓库：https://github.com/ovovo-gh/ckw.git（已完成授权，代码已推送到 main 分支）。
 - 确定正式部署方案前核对数据库、图片存储、账号服务的免费额度和访问条件。
 - 必须用用户实际大陆网络测试，不能以开发机访问成功代替大陆直连验收。
 - GitHub 仓库归属和部署账号在接入时确认；此文档不存凭据。
