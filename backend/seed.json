@@ -1,0 +1,993 @@
+{
+  "series": [
+    {
+      "id": "baby",
+      "name": "Chiikawa Baby 宝宝",
+      "description": "已收录款式，持续补充中",
+      "sourceUrl": "https://chiikawamarket.jp/products/4571609373902"
+    },
+    {
+      "id": "pajama",
+      "name": "睡衣派对",
+      "description": "已收录款式，持续补充中",
+      "sourceUrl": "https://chiikawamarket.jp/products/4582662929357"
+    },
+    {
+      "id": "sushi",
+      "name": "寿司店",
+      "description": "已收录款式，持续补充中",
+      "sourceUrl": "https://chiikawamarket.jp/products/4571609342427"
+    },
+    {
+      "id": "bakery",
+      "name": "面包店",
+      "description": "已收录款式，持续补充中",
+      "sourceUrl": "https://chiikawamarket.jp/products/4571609335016"
+    },
+    {
+      "id": "aquarium",
+      "name": "水族馆",
+      "description": "已收录款式，持续补充中",
+      "sourceUrl": "https://chiikawamarket.jp/products/4582662929258"
+    },
+    {
+      "id": "restaurant",
+      "name": "餐厅",
+      "description": "已收录款式，持续补充中",
+      "sourceUrl": "https://chiikawamarket.jp/products/4582662964587"
+    },
+    {
+      "id": "magical",
+      "name": "魔法少女",
+      "description": "已收录款式，持续补充中",
+      "sourceUrl": "https://chiikawamarket.jp/products/4582662915312"
+    },
+    {
+      "id": "angel-devil",
+      "name": "天使与恶魔",
+      "description": "已收录款式，持续补充中",
+      "sourceUrl": "https://chiikawamarket.jp/products/4582662984639"
+    }
+  ],
+  "variants": [
+    {
+      "id": "4571609373902",
+      "seriesId": "baby",
+      "name": "吉伊 · 宝宝挂件",
+      "originalName": "ちいかわ Chiikawa Baby マスコット（ちいかわ）",
+      "character": "吉伊",
+      "sourceUrl": "https://chiikawamarket.jp/products/4571609373902",
+      "image": "/assets/catalog/4571609373902.jpg",
+      "images": [],
+      "type": "plush-charm"
+    },
+    {
+      "id": "4571609373919",
+      "seriesId": "baby",
+      "name": "小八 · 宝宝挂件",
+      "originalName": "ちいかわ Chiikawa Baby マスコット（ハチワレ）",
+      "character": "小八",
+      "sourceUrl": "https://chiikawamarket.jp/products/4571609373919",
+      "image": "/assets/catalog/4571609373919.jpg",
+      "images": [],
+      "type": "plush-charm"
+    },
+    {
+      "id": "4571609373926",
+      "seriesId": "baby",
+      "name": "乌萨奇 · 宝宝挂件",
+      "originalName": "ちいかわ Chiikawa Baby マスコット（うさぎ）",
+      "character": "乌萨奇",
+      "sourceUrl": "https://chiikawamarket.jp/products/4571609373926",
+      "image": "/assets/catalog/4571609373926.jpg",
+      "images": [],
+      "type": "plush-charm"
+    },
+    {
+      "id": "4571609374060",
+      "seriesId": "baby",
+      "name": "吉伊 · 襁褓玩偶",
+      "originalName": "ちいかわ Chiikawa Baby おくるみぬいぐるみ（ちいかわ）",
+      "character": "吉伊",
+      "sourceUrl": "https://chiikawamarket.jp/products/4571609374060",
+      "image": "/assets/catalog/4571609374060.jpg",
+      "images": [],
+      "type": "plush"
+    },
+    {
+      "id": "4571609374077",
+      "seriesId": "baby",
+      "name": "小八 · 襁褓玩偶",
+      "originalName": "ちいかわ Chiikawa Baby おくるみぬいぐるみ（ハチワレ）",
+      "character": "小八",
+      "sourceUrl": "https://chiikawamarket.jp/products/4571609374077",
+      "image": "/assets/catalog/4571609374077.jpg",
+      "images": [],
+      "type": "plush"
+    },
+    {
+      "id": "4571609374084",
+      "seriesId": "baby",
+      "name": "乌萨奇 · 襁褓玩偶",
+      "originalName": "ちいかわ Chiikawa Baby おくるみぬいぐるみ（うさぎ）",
+      "character": "乌萨奇",
+      "sourceUrl": "https://chiikawamarket.jp/products/4571609374084",
+      "image": "/assets/catalog/4571609374084.jpg",
+      "images": [],
+      "type": "plush"
+    },
+    {
+      "id": "4582662929357",
+      "seriesId": "pajama",
+      "name": "吉伊 · 睡衣派对挂件",
+      "originalName": "ちいかわ パジャマパーティーなぷちミニマスコット（ちいかわ）",
+      "character": "吉伊",
+      "sourceUrl": "https://chiikawamarket.jp/products/4582662929357",
+      "image": "/assets/catalog/4582662929357.jpg",
+      "images": [],
+      "type": "plush-charm"
+    },
+    {
+      "id": "4582662929364",
+      "seriesId": "pajama",
+      "name": "小八 · 睡衣派对挂件",
+      "originalName": "ちいかわ パジャマパーティーなぷちミニマスコット（ハチワレ）",
+      "character": "小八",
+      "sourceUrl": "https://chiikawamarket.jp/products/4582662929364",
+      "image": "/assets/catalog/4582662929364.jpg",
+      "images": [],
+      "type": "plush-charm"
+    },
+    {
+      "id": "4582662929371",
+      "seriesId": "pajama",
+      "name": "乌萨奇 · 睡衣派对挂件",
+      "originalName": "ちいかわ パジャマパーティーなぷちミニマスコット（うさぎ）",
+      "character": "乌萨奇",
+      "sourceUrl": "https://chiikawamarket.jp/products/4582662929371",
+      "image": "/assets/catalog/4582662929371.jpg",
+      "images": [],
+      "type": "plush-charm"
+    },
+    {
+      "id": "4571609342427",
+      "seriesId": "sushi",
+      "name": "吉伊 · 中腹金枪鱼寿司挂件",
+      "originalName": "ちいかわ ちいかわ寿司 マスコット（ちいかわ／中トロ）",
+      "character": "吉伊",
+      "sourceUrl": "https://chiikawamarket.jp/products/4571609342427",
+      "image": "/assets/catalog/4571609342427.jpg",
+      "images": [],
+      "type": "plush-charm"
+    },
+    {
+      "id": "4571609342434",
+      "seriesId": "sushi",
+      "name": "小八 · 玉子寿司挂件",
+      "originalName": "ちいかわ ちいかわ寿司 マスコット（ハチワレ／たまご）",
+      "character": "小八",
+      "sourceUrl": "https://chiikawamarket.jp/products/4571609342434",
+      "image": "/assets/catalog/4571609342434.jpg",
+      "images": [],
+      "type": "plush-charm"
+    },
+    {
+      "id": "4571609342441",
+      "seriesId": "sushi",
+      "name": "乌萨奇 · 鲑鱼卵寿司挂件",
+      "originalName": "ちいかわ ちいかわ寿司 マスコット（うさぎ／いくら）",
+      "character": "乌萨奇",
+      "sourceUrl": "https://chiikawamarket.jp/products/4571609342441",
+      "image": "/assets/catalog/4571609342441.jpg",
+      "images": [],
+      "type": "plush-charm"
+    },
+    {
+      "id": "4571609342458",
+      "seriesId": "sushi",
+      "name": "飞鼠 · 葱花金枪鱼寿司挂件",
+      "originalName": "ちいかわ ちいかわ寿司 マスコット（モモンガ／ネギトロ）",
+      "character": "飞鼠",
+      "sourceUrl": "https://chiikawamarket.jp/products/4571609342458",
+      "image": "/assets/catalog/4571609342458.jpg",
+      "images": [],
+      "type": "plush-charm"
+    },
+    {
+      "id": "4571609335016",
+      "seriesId": "bakery",
+      "name": "吉伊 · 面包店店员挂件",
+      "originalName": "ちいかわ ちいかわベーカリー スタッフさんなマスコット（ちいかわ）",
+      "character": "吉伊",
+      "sourceUrl": "https://chiikawamarket.jp/products/4571609335016",
+      "image": "/assets/catalog/4571609335016.jpg",
+      "images": [],
+      "type": "plush-charm"
+    },
+    {
+      "id": "4571609335245",
+      "seriesId": "bakery",
+      "name": "小八 · 面包店店员挂件",
+      "originalName": "ちいかわ ちいかわベーカリー スタッフさんなマスコット（ハチワレ）",
+      "character": "小八",
+      "sourceUrl": "https://chiikawamarket.jp/products/4571609335245",
+      "image": "/assets/catalog/4571609335245.jpg",
+      "images": [],
+      "type": "plush-charm"
+    },
+    {
+      "id": "4571609335252",
+      "seriesId": "bakery",
+      "name": "乌萨奇 · 面包店店员挂件",
+      "originalName": "ちいかわ ちいかわベーカリー スタッフさんなマスコット（うさぎ）",
+      "character": "乌萨奇",
+      "sourceUrl": "https://chiikawamarket.jp/products/4571609335252",
+      "image": "/assets/catalog/4571609335252.jpg",
+      "images": [],
+      "type": "plush-charm"
+    },
+    {
+      "id": "4571609335375",
+      "seriesId": "bakery",
+      "name": "飞鼠 · 螺旋面包挂件",
+      "originalName": "ちいかわ ちいかわベーカリー コロネなマスコット（モモンガ）",
+      "character": "飞鼠",
+      "sourceUrl": "https://chiikawamarket.jp/products/4571609335375",
+      "image": "/assets/catalog/4571609335375.jpg",
+      "images": [],
+      "type": "plush-charm"
+    },
+    {
+      "id": "4582662929258",
+      "seriesId": "aquarium",
+      "name": "吉伊 · 鲨鱼挂件",
+      "originalName": "ちいかわ水族館 サメなちいかわマスコット",
+      "character": "吉伊",
+      "sourceUrl": "https://chiikawamarket.jp/products/4582662929258",
+      "image": "/assets/catalog/4582662929258.jpg",
+      "images": [],
+      "type": "plush-charm"
+    },
+    {
+      "id": "4582662929265",
+      "seriesId": "aquarium",
+      "name": "小八 · 鲸鲨挂件",
+      "originalName": "ちいかわ水族館 ジンベエザメなハチワレマスコット",
+      "character": "小八",
+      "sourceUrl": "https://chiikawamarket.jp/products/4582662929265",
+      "image": "/assets/catalog/4582662929265.jpg",
+      "images": [],
+      "type": "plush-charm"
+    },
+    {
+      "id": "4582662929272",
+      "seriesId": "aquarium",
+      "name": "乌萨奇 · 虎鲸挂件",
+      "originalName": "ちいかわ水族館 シャチなうさぎマスコット",
+      "character": "乌萨奇",
+      "sourceUrl": "https://chiikawamarket.jp/products/4582662929272",
+      "image": "/assets/catalog/4582662929272.jpg",
+      "images": [],
+      "type": "plush-charm"
+    },
+    {
+      "id": "4582662929210",
+      "seriesId": "aquarium",
+      "name": "飞鼠 · 冰海精灵挂件",
+      "originalName": "ちいかわ水族館 クリオネなモモンガマスコット",
+      "character": "飞鼠",
+      "sourceUrl": "https://chiikawamarket.jp/products/4582662929210",
+      "image": "/assets/catalog/4582662929210.jpg",
+      "images": [],
+      "type": "plush-charm"
+    },
+    {
+      "id": "4582662964587",
+      "seriesId": "restaurant",
+      "name": "吉伊 · 餐厅服务员挂件",
+      "originalName": "ちいかわ ちいかわレストラン ホール担当なマスコット（ちいかわ）",
+      "character": "吉伊",
+      "sourceUrl": "https://chiikawamarket.jp/products/4582662964587",
+      "image": "/assets/catalog/4582662964587.jpg",
+      "images": [],
+      "type": "plush-charm"
+    },
+    {
+      "id": "4582662964594",
+      "seriesId": "restaurant",
+      "name": "小八 · 餐厅服务员挂件",
+      "originalName": "ちいかわ ちいかわレストラン ホール担当なマスコット（ハチワレ）",
+      "character": "小八",
+      "sourceUrl": "https://chiikawamarket.jp/products/4582662964594",
+      "image": "/assets/catalog/4582662964594.jpg",
+      "images": [],
+      "type": "plush-charm"
+    },
+    {
+      "id": "4582662964600",
+      "seriesId": "restaurant",
+      "name": "乌萨奇 · 餐厅服务员挂件",
+      "originalName": "ちいかわ ちいかわレストラン ホール担当なマスコット（うさぎ）",
+      "character": "乌萨奇",
+      "sourceUrl": "https://chiikawamarket.jp/products/4582662964600",
+      "image": "/assets/catalog/4582662964600.jpg",
+      "images": [],
+      "type": "plush-charm"
+    },
+    {
+      "id": "4582662964617",
+      "seriesId": "restaurant",
+      "name": "飞鼠 · 餐厅服务员挂件",
+      "originalName": "ちいかわ ちいかわレストラン ホール担当なマスコット（モモンガ）",
+      "character": "飞鼠",
+      "sourceUrl": "https://chiikawamarket.jp/products/4582662964617",
+      "image": "/assets/catalog/4582662964617.jpg",
+      "images": [],
+      "type": "plush-charm"
+    },
+    {
+      "id": "4582662915312",
+      "seriesId": "magical",
+      "name": "吉伊 · 魔法充能挂件",
+      "originalName": "まじかるちいかわ マジカルチャージマスコット（ちいかわ）",
+      "character": "吉伊",
+      "sourceUrl": "https://chiikawamarket.jp/products/4582662915312",
+      "image": "/assets/catalog/4582662915312.jpg",
+      "images": [],
+      "type": "plush-charm"
+    },
+    {
+      "id": "4582662915329",
+      "seriesId": "magical",
+      "name": "小八 · 魔法充能挂件",
+      "originalName": "まじかるちいかわ マジカルチャージマスコット（ハチワレ）",
+      "character": "小八",
+      "sourceUrl": "https://chiikawamarket.jp/products/4582662915329",
+      "image": "/assets/catalog/4582662915329.jpg",
+      "images": [],
+      "type": "plush-charm"
+    },
+    {
+      "id": "4582662915336",
+      "seriesId": "magical",
+      "name": "乌萨奇 · 魔法充能挂件",
+      "originalName": "まじかるちいかわ マジカルチャージマスコット（うさぎ）",
+      "character": "乌萨奇",
+      "sourceUrl": "https://chiikawamarket.jp/products/4582662915336",
+      "image": "/assets/catalog/4582662915336.jpg",
+      "images": [],
+      "type": "plush-charm"
+    },
+    {
+      "id": "4582662915343",
+      "seriesId": "magical",
+      "name": "飞鼠 · 魔法充能挂件",
+      "originalName": "まじかるちいかわ マジカルチャージマスコット（モモンガ）",
+      "character": "飞鼠",
+      "sourceUrl": "https://chiikawamarket.jp/products/4582662915343",
+      "image": "/assets/catalog/4582662915343.jpg",
+      "images": [],
+      "type": "plush-charm"
+    },
+    {
+      "id": "4582662984639",
+      "seriesId": "angel-devil",
+      "name": "吉伊 · 天使挂件",
+      "originalName": "ちいかわ てんし♡あくま マスコット（てんしなちいかわ）",
+      "character": "吉伊",
+      "sourceUrl": "https://chiikawamarket.jp/products/4582662984639",
+      "image": "/assets/catalog/4582662984639.jpg",
+      "images": [],
+      "type": "plush-charm"
+    },
+    {
+      "id": "4582662984615",
+      "seriesId": "angel-devil",
+      "name": "小八 · 天使挂件",
+      "originalName": "ちいかわ てんし♡あくま マスコット（てんしなハチワレ）",
+      "character": "小八",
+      "sourceUrl": "https://chiikawamarket.jp/products/4582662984615",
+      "image": "/assets/catalog/4582662984615.jpg",
+      "images": [],
+      "type": "plush-charm"
+    },
+    {
+      "id": "4582662984608",
+      "seriesId": "angel-devil",
+      "name": "乌萨奇 · 恶魔挂件",
+      "originalName": "ちいかわ てんし♡あくま マスコット（あくまなうさぎ）",
+      "character": "乌萨奇",
+      "sourceUrl": "https://chiikawamarket.jp/products/4582662984608",
+      "image": "/assets/catalog/4582662984608.jpg",
+      "images": [],
+      "type": "plush-charm"
+    },
+    {
+      "id": "4582662984585",
+      "seriesId": "angel-devil",
+      "name": "飞鼠 · 恶魔挂件",
+      "originalName": "ちいかわ てんし♡あくま マスコット（あくまなモモンガ）",
+      "character": "飞鼠",
+      "sourceUrl": "https://chiikawamarket.jp/products/4582662984585",
+      "image": "/assets/catalog/4582662984585.jpg",
+      "images": [],
+      "type": "plush-charm"
+    }
+  ],
+  "wallpapers": [
+    {
+      "id": "1372955298567090177-1",
+      "name": "悄悄探头",
+      "device": "phone",
+      "compatibleDevices": [
+        "phone"
+      ],
+      "fitNote": "竖屏手机壁纸；请按实际屏幕比例调整。",
+      "width": 946,
+      "height": 2048,
+      "sourceUrl": "https://x.com/ngnchiikawa/status/1372955298567090177",
+      "originalImageUrl": "https://pbs.twimg.com/media/Ew23kSUVoAQFymm?format=jpg&name=orig",
+      "author": "ちいかわ💫アニメ火金",
+      "image": "/assets/wallpapers/1372955298567090177-1.jpg",
+      "images": [],
+      "sourceOnly": true,
+      "license": "官方公开壁纸 · 原图请前往来源保存",
+      "publishedAt": "2021-03-19T16:57:06.000Z"
+    },
+    {
+      "id": "1444544139694002178-1",
+      "name": "小八的眼泪",
+      "device": "phone",
+      "compatibleDevices": [
+        "phone"
+      ],
+      "fitNote": "竖屏手机壁纸；请按实际屏幕比例调整。",
+      "width": 1030,
+      "height": 2048,
+      "sourceUrl": "https://x.com/ngnchiikawa/status/1444544139694002178",
+      "originalImageUrl": "https://pbs.twimg.com/media/FAwNPOUVUAES6IC?format=jpg&name=orig",
+      "author": "ちいかわ💫アニメ火金",
+      "image": "/assets/wallpapers/1444544139694002178-1.jpg",
+      "images": [],
+      "sourceOnly": true,
+      "license": "官方公开壁纸 · 原图请前往来源保存",
+      "publishedAt": "2021-10-03T06:05:35.000Z"
+    },
+    {
+      "id": "1618088519049658368-1",
+      "name": "Ghana 巧克力情人节",
+      "device": "phone",
+      "compatibleDevices": [
+        "phone"
+      ],
+      "fitNote": "竖屏手机壁纸；请按实际屏幕比例调整。",
+      "width": 1284,
+      "height": 2778,
+      "sourceUrl": "https://x.com/ghana_recipe/status/1618088519049658368",
+      "originalImageUrl": "https://pbs.twimg.com/media/FnSNEqFacAIt-To?format=jpg&name=orig",
+      "author": "ガーナチョコレート🍫公式",
+      "image": "/assets/wallpapers/1618088519049658368-1.jpg",
+      "images": [],
+      "sourceOnly": true,
+      "license": "官方公开壁纸 · 原图请前往来源保存",
+      "publishedAt": "2023-01-25T03:29:00.000Z"
+    },
+    {
+      "id": "1736566956793188685-1",
+      "name": "晴空塔 · 星空派对",
+      "device": "phone",
+      "compatibleDevices": [
+        "phone"
+      ],
+      "fitNote": "竖屏手机壁纸；请按实际屏幕比例调整。",
+      "width": 1242,
+      "height": 2688,
+      "sourceUrl": "https://x.com/skytreeofficial/status/1736566956793188685",
+      "originalImageUrl": "https://pbs.twimg.com/media/GBM3LtsawAEkH4P?format=jpg&name=orig",
+      "author": "スカイツリー／Tokyo Skytree",
+      "image": "/assets/wallpapers/1736566956793188685-1.jpg",
+      "images": [],
+      "sourceOnly": true,
+      "license": "官方公开壁纸 · 原图请前往来源保存",
+      "publishedAt": "2023-12-18T02:00:01.000Z"
+    },
+    {
+      "id": "1829715738833403956-1",
+      "name": "2024年9月 · 手机月历",
+      "device": "phone",
+      "compatibleDevices": [
+        "phone"
+      ],
+      "fitNote": "竖屏手机壁纸；请按实际屏幕比例调整。",
+      "width": 1179,
+      "height": 2556,
+      "sourceUrl": "https://x.com/chiikawa_pt_jp/status/1829715738833403956",
+      "originalImageUrl": "https://pbs.twimg.com/media/GWNkHhKWkAAXIrZ?format=jpg&name=orig",
+      "author": "ちいかわぽけっと公式",
+      "image": "/assets/wallpapers/1829715738833403956-1.jpg",
+      "images": [],
+      "sourceOnly": true,
+      "license": "官方公开壁纸 · 原图请前往来源保存",
+      "publishedAt": "2024-08-31T03:00:01.000Z"
+    },
+    {
+      "id": "1840587372062199845-1",
+      "name": "2024年10月 · 手机月历",
+      "device": "phone",
+      "compatibleDevices": [
+        "phone"
+      ],
+      "fitNote": "竖屏手机壁纸；请按实际屏幕比例调整。",
+      "width": 1179,
+      "height": 2556,
+      "sourceUrl": "https://x.com/chiikawa_pt_jp/status/1840587372062199845",
+      "originalImageUrl": "https://pbs.twimg.com/media/GYdBCqNaYAAT2Y0?format=jpg&name=orig",
+      "author": "ちいかわぽけっと公式",
+      "image": "/assets/wallpapers/1840587372062199845-1.jpg",
+      "images": [],
+      "sourceOnly": true,
+      "license": "官方公开壁纸 · 原图请前往来源保存",
+      "publishedAt": "2024-09-30T03:00:00.000Z"
+    },
+    {
+      "id": "1851821405396230406-1",
+      "name": "2024年11月 · 手机月历",
+      "device": "phone",
+      "compatibleDevices": [
+        "phone"
+      ],
+      "fitNote": "竖屏手机壁纸；请按实际屏幕比例调整。",
+      "width": 1179,
+      "height": 2556,
+      "sourceUrl": "https://x.com/chiikawa_pt_jp/status/1851821405396230406",
+      "originalImageUrl": "https://pbs.twimg.com/media/GbIPQ61boAAJgsr?format=jpg&name=orig",
+      "author": "ちいかわぽけっと公式",
+      "image": "/assets/wallpapers/1851821405396230406-1.jpg",
+      "images": [],
+      "sourceOnly": true,
+      "license": "官方公开壁纸 · 原图请前往来源保存",
+      "publishedAt": "2024-10-31T03:00:02.000Z"
+    },
+    {
+      "id": "1862798727892844663-1",
+      "name": "2024年12月 · 手机月历",
+      "device": "phone",
+      "compatibleDevices": [
+        "phone"
+      ],
+      "fitNote": "竖屏手机壁纸；请按实际屏幕比例调整。",
+      "width": 1179,
+      "height": 2556,
+      "sourceUrl": "https://x.com/chiikawa_pt_jp/status/1862798727892844663",
+      "originalImageUrl": "https://pbs.twimg.com/media/Gdifyy6boAAUJz4?format=jpg&name=orig",
+      "author": "ちいかわぽけっと公式",
+      "image": "/assets/wallpapers/1862798727892844663-1.jpg",
+      "images": [],
+      "sourceOnly": true,
+      "license": "官方公开壁纸 · 原图请前往来源保存",
+      "publishedAt": "2024-11-30T10:00:00.000Z"
+    },
+    {
+      "id": "1873927065344631017-1",
+      "name": "2025年1月 · 手机月历",
+      "device": "phone",
+      "compatibleDevices": [
+        "phone"
+      ],
+      "fitNote": "竖屏手机壁纸；请按实际屏幕比例调整。",
+      "width": 1179,
+      "height": 2556,
+      "sourceUrl": "https://x.com/chiikawa_pt_jp/status/1873927065344631017",
+      "originalImageUrl": "https://pbs.twimg.com/media/GfyaE7qaAAABsk7?format=jpg&name=orig",
+      "author": "ちいかわぽけっと公式",
+      "image": "/assets/wallpapers/1873927065344631017-1.jpg",
+      "images": [],
+      "sourceOnly": true,
+      "license": "官方公开壁纸 · 原图请前往来源保存",
+      "publishedAt": "2024-12-31T03:00:02.000Z"
+    },
+    {
+      "id": "1881160994329878872-1",
+      "name": "动画 50 万关注纪念 1",
+      "device": "phone",
+      "compatibleDevices": [
+        "phone"
+      ],
+      "fitNote": "竖屏手机壁纸；请按实际屏幕比例调整。",
+      "width": 540,
+      "height": 1200,
+      "sourceUrl": "https://x.com/anime_chiikawa/status/1881160994329878872",
+      "originalImageUrl": "https://pbs.twimg.com/media/Ghs59BhagAA3_7m?format=jpg&name=orig",
+      "author": "『ちいかわ』アニメ公式",
+      "image": "/assets/wallpapers/1881160994329878872-1.jpg",
+      "images": [],
+      "sourceOnly": true,
+      "license": "官方公开壁纸 · 原图请前往来源保存",
+      "publishedAt": "2025-01-20T02:05:05.000Z"
+    },
+    {
+      "id": "1881160994329878872-2",
+      "name": "动画 50 万关注纪念 2",
+      "device": "phone",
+      "compatibleDevices": [
+        "phone"
+      ],
+      "fitNote": "竖屏手机壁纸；请按实际屏幕比例调整。",
+      "width": 540,
+      "height": 1200,
+      "sourceUrl": "https://x.com/anime_chiikawa/status/1881160994329878872",
+      "originalImageUrl": "https://pbs.twimg.com/media/Ghs59A5akAAthF7?format=jpg&name=orig",
+      "author": "『ちいかわ』アニメ公式",
+      "image": "/assets/wallpapers/1881160994329878872-2.jpg",
+      "images": [],
+      "sourceOnly": true,
+      "license": "官方公开壁纸 · 原图请前往来源保存",
+      "publishedAt": "2025-01-20T02:05:05.000Z"
+    },
+    {
+      "id": "1885161087374680440-1",
+      "name": "2025年2月 · 手机月历",
+      "device": "phone",
+      "compatibleDevices": [
+        "phone"
+      ],
+      "fitNote": "竖屏手机壁纸；请按实际屏幕比例调整。",
+      "width": 1179,
+      "height": 2556,
+      "sourceUrl": "https://x.com/chiikawa_pt_jp/status/1885161087374680440",
+      "originalImageUrl": "https://pbs.twimg.com/media/Gih2zMwaMAAIi7d?format=jpg&name=orig",
+      "author": "ちいかわぽけっと公式",
+      "image": "/assets/wallpapers/1885161087374680440-1.jpg",
+      "images": [],
+      "sourceOnly": true,
+      "license": "官方公开壁纸 · 原图请前往来源保存",
+      "publishedAt": "2025-01-31T03:00:02.000Z"
+    },
+    {
+      "id": "1894583185310368011-1",
+      "name": "2025年3月 · 手机月历",
+      "device": "phone",
+      "compatibleDevices": [
+        "phone"
+      ],
+      "fitNote": "竖屏手机壁纸；请按实际屏幕比例调整。",
+      "width": 1179,
+      "height": 2556,
+      "sourceUrl": "https://x.com/chiikawa_pt_jp/status/1894583185310368011",
+      "originalImageUrl": "https://pbs.twimg.com/media/GkrpCoAagAABqZH?format=jpg&name=orig",
+      "author": "ちいかわぽけっと公式",
+      "image": "/assets/wallpapers/1894583185310368011-1.jpg",
+      "images": [],
+      "sourceOnly": true,
+      "license": "官方公开壁纸 · 原图请前往来源保存",
+      "publishedAt": "2025-02-26T03:00:05.000Z"
+    },
+    {
+      "id": "1972919339579031775-1",
+      "name": "2025年10月 · 手机月历",
+      "device": "phone",
+      "compatibleDevices": [
+        "phone"
+      ],
+      "fitNote": "竖屏手机壁纸；请按实际屏幕比例调整。",
+      "width": 1179,
+      "height": 2556,
+      "sourceUrl": "https://x.com/chiikawa_pt_jp/status/1972919339579031775",
+      "originalImageUrl": "https://pbs.twimg.com/media/G2ANYu7WMAA1VyY?format=jpg&name=orig",
+      "author": "ちいかわぽけっと公式",
+      "image": "/assets/wallpapers/1972919339579031775-1.jpg",
+      "images": [],
+      "sourceOnly": true,
+      "license": "官方公开壁纸 · 原图请前往来源保存",
+      "publishedAt": "2025-09-30T07:00:00.000Z"
+    },
+    {
+      "id": "1983792241677365422-1",
+      "name": "2025年11月 · 手机月历",
+      "device": "phone",
+      "compatibleDevices": [
+        "phone"
+      ],
+      "fitNote": "竖屏手机壁纸；请按实际屏幕比例调整。",
+      "width": 1179,
+      "height": 2556,
+      "sourceUrl": "https://x.com/chiikawa_pt_jp/status/1983792241677365422",
+      "originalImageUrl": "https://pbs.twimg.com/media/G4fYEfma8AI6r8L?format=jpg&name=orig",
+      "author": "ちいかわぽけっと公式",
+      "image": "/assets/wallpapers/1983792241677365422-1.jpg",
+      "images": [],
+      "sourceOnly": true,
+      "license": "官方公开壁纸 · 原图请前往来源保存",
+      "publishedAt": "2025-10-30T07:05:02.000Z"
+    },
+    {
+      "id": "1995024999120580756-1",
+      "name": "2025年12月 · 手机月历",
+      "device": "phone",
+      "compatibleDevices": [
+        "phone"
+      ],
+      "fitNote": "竖屏手机壁纸；请按实际屏幕比例调整。",
+      "width": 1179,
+      "height": 2556,
+      "sourceUrl": "https://x.com/chiikawa_pt_jp/status/1995024999120580756",
+      "originalImageUrl": "https://pbs.twimg.com/media/G6rU66tawAEMZXb?format=jpg&name=orig",
+      "author": "ちいかわぽけっと公式",
+      "image": "/assets/wallpapers/1995024999120580756-1.jpg",
+      "images": [],
+      "sourceOnly": true,
+      "license": "官方公开壁纸 · 原图请前往来源保存",
+      "publishedAt": "2025-11-30T07:00:00.000Z"
+    },
+    {
+      "id": "2006259028112920706-1",
+      "name": "2026年1月 · 手机月历",
+      "device": "phone",
+      "compatibleDevices": [
+        "phone"
+      ],
+      "fitNote": "竖屏手机壁纸；请按实际屏幕比例调整。",
+      "width": 1179,
+      "height": 2556,
+      "sourceUrl": "https://x.com/chiikawa_pt_jp/status/2006259028112920706",
+      "originalImageUrl": "https://pbs.twimg.com/media/G9EG3fxasAEQQnc?format=jpg&name=orig",
+      "author": "ちいかわぽけっと公式",
+      "image": "/assets/wallpapers/2006259028112920706-1.jpg",
+      "images": [],
+      "sourceOnly": true,
+      "license": "官方公开壁纸 · 原图请前往来源保存",
+      "publishedAt": "2025-12-31T07:00:01.000Z"
+    },
+    {
+      "id": "2017493051309015174-1",
+      "name": "2026年2月 · 手机月历",
+      "device": "phone",
+      "compatibleDevices": [
+        "phone"
+      ],
+      "fitNote": "竖屏手机壁纸；请按实际屏幕比例调整。",
+      "width": 1179,
+      "height": 2556,
+      "sourceUrl": "https://x.com/chiikawa_pt_jp/status/2017493051309015174",
+      "originalImageUrl": "https://pbs.twimg.com/media/G_VIawVacAARoCZ?format=jpg&name=orig",
+      "author": "ちいかわぽけっと公式",
+      "image": "/assets/wallpapers/2017493051309015174-1.jpg",
+      "images": [],
+      "sourceOnly": true,
+      "license": "官方公开壁纸 · 原图请前往来源保存",
+      "publishedAt": "2026-01-31T07:00:01.000Z"
+    },
+    {
+      "id": "2027639908974924042-1",
+      "name": "2026年3月 · 手机月历",
+      "device": "phone",
+      "compatibleDevices": [
+        "phone"
+      ],
+      "fitNote": "竖屏手机壁纸；请按实际屏幕比例调整。",
+      "width": 1179,
+      "height": 2556,
+      "sourceUrl": "https://x.com/chiikawa_pt_jp/status/2027639908974924042",
+      "originalImageUrl": "https://pbs.twimg.com/media/HBV4v_ibcAMoHHa?format=jpg&name=orig",
+      "author": "ちいかわぽけっと公式",
+      "image": "/assets/wallpapers/2027639908974924042-1.jpg",
+      "images": [],
+      "sourceOnly": true,
+      "license": "官方公开壁纸 · 原图请前往来源保存",
+      "publishedAt": "2026-02-28T07:00:00.000Z"
+    },
+    {
+      "id": "2038889037449343355-1",
+      "name": "2026年4月 · 手机月历",
+      "device": "phone",
+      "compatibleDevices": [
+        "phone"
+      ],
+      "fitNote": "竖屏手机壁纸；请按实际屏幕比例调整。",
+      "width": 1179,
+      "height": 2556,
+      "sourceUrl": "https://x.com/chiikawa_pt_jp/status/2038889037449343355",
+      "originalImageUrl": "https://pbs.twimg.com/media/HEuRJxvaEAAwCdr?format=jpg&name=orig",
+      "author": "ちいかわぽけっと公式",
+      "image": "/assets/wallpapers/2038889037449343355-1.jpg",
+      "images": [],
+      "sourceOnly": true,
+      "license": "官方公开壁纸 · 原图请前往来源保存",
+      "publishedAt": "2026-03-31T08:00:01.000Z"
+    },
+    {
+      "id": "2049745567719526719-1",
+      "name": "2026年5月 · 手机月历",
+      "device": "phone",
+      "compatibleDevices": [
+        "phone"
+      ],
+      "fitNote": "竖屏手机壁纸；请按实际屏幕比例调整。",
+      "width": 1179,
+      "height": 2556,
+      "sourceUrl": "https://x.com/chiikawa_pt_jp/status/2049745567719526719",
+      "originalImageUrl": "https://pbs.twimg.com/media/HHD7aZobAAAl_Bw?format=jpg&name=orig",
+      "author": "ちいかわぽけっと公式",
+      "image": "/assets/wallpapers/2049745567719526719-1.jpg",
+      "images": [],
+      "sourceOnly": true,
+      "license": "官方公开壁纸 · 原图请前往来源保存",
+      "publishedAt": "2026-04-30T07:00:00.000Z"
+    },
+    {
+      "id": "2060979603548914166-1",
+      "name": "2026年6月 · 手机月历",
+      "device": "phone",
+      "compatibleDevices": [
+        "phone"
+      ],
+      "fitNote": "竖屏手机壁纸；请按实际屏幕比例调整。",
+      "width": 1179,
+      "height": 2556,
+      "sourceUrl": "https://x.com/chiikawa_pt_jp/status/2060979603548914166",
+      "originalImageUrl": "https://pbs.twimg.com/media/HJjkl9Ba8AAv9fZ?format=jpg&name=orig",
+      "author": "ちいかわぽけっと公式",
+      "image": "/assets/wallpapers/2060979603548914166-1.jpg",
+      "images": [],
+      "sourceOnly": true,
+      "license": "官方公开壁纸 · 原图请前往来源保存",
+      "publishedAt": "2026-05-31T07:00:03.000Z"
+    },
+    {
+      "id": "2071851228611383773-1",
+      "name": "2026年7月 · 手机月历",
+      "device": "phone",
+      "compatibleDevices": [
+        "phone"
+      ],
+      "fitNote": "竖屏手机壁纸；请按实际屏幕比例调整。",
+      "width": 1179,
+      "height": 2556,
+      "sourceUrl": "https://x.com/chiikawa_pt_jp/status/2071851228611383773",
+      "originalImageUrl": "https://pbs.twimg.com/media/HL-ErKDagAAqJi1?format=jpg&name=orig",
+      "author": "ちいかわぽけっと公式",
+      "image": "/assets/wallpapers/2071851228611383773-1.jpg",
+      "images": [],
+      "sourceOnly": true,
+      "license": "官方公开壁纸 · 原图请前往来源保存",
+      "publishedAt": "2026-06-30T07:00:00.000Z"
+    },
+    {
+      "id": "2083447650809213413-1",
+      "name": "2026年8月 · 手机月历",
+      "device": "phone",
+      "compatibleDevices": [
+        "phone"
+      ],
+      "fitNote": "竖屏手机壁纸；请按实际屏幕比例调整。",
+      "width": 1179,
+      "height": 2556,
+      "sourceUrl": "https://x.com/chiikawa_pt_jp/status/2083447650809213413",
+      "originalImageUrl": "https://pbs.twimg.com/media/HOi3F1KbEAASUZO?format=jpg&name=orig",
+      "author": "ちいかわぽけっと公式",
+      "image": "/assets/wallpapers/2083447650809213413-1.jpg",
+      "images": [],
+      "sourceOnly": true,
+      "license": "官方公开壁纸 · 原图请前往来源保存",
+      "publishedAt": "2026-08-01T07:00:03.000Z"
+    },
+    {
+      "id": "2094319294087889183-1",
+      "name": "2026年9月 · 手机月历",
+      "device": "phone",
+      "compatibleDevices": [
+        "phone"
+      ],
+      "fitNote": "竖屏手机壁纸；请按实际屏幕比例调整。",
+      "width": 1179,
+      "height": 2556,
+      "sourceUrl": "https://x.com/chiikawa_pt_jp/status/2094319294087889183",
+      "originalImageUrl": "https://pbs.twimg.com/media/HQ9WkS9bIAAzfsA?format=jpg&name=orig",
+      "author": "ちいかわぽけっと公式",
+      "image": "/assets/wallpapers/2094319294087889183-1.jpg",
+      "images": [],
+      "sourceOnly": true,
+      "license": "官方公开壁纸 · 原图请前往来源保存",
+      "publishedAt": "2026-08-31T07:00:04.000Z"
+    },
+    {
+      "id": "2103060517174878283-1",
+      "name": "晴空塔 · 天空秘密岛",
+      "device": "phone",
+      "compatibleDevices": [
+        "phone"
+      ],
+      "fitNote": "竖屏手机壁纸；请按实际屏幕比例调整。",
+      "width": 922,
+      "height": 2048,
+      "sourceUrl": "https://x.com/skytreeofficial/status/2103060517174878283",
+      "originalImageUrl": "https://pbs.twimg.com/media/HS-SY95bMAAx3hg?format=jpg&name=orig",
+      "author": "スカイツリー／Tokyo Skytree",
+      "image": "/assets/wallpapers/2103060517174878283-1.jpg",
+      "images": [],
+      "sourceOnly": true,
+      "license": "官方公开壁纸 · 原图请前往来源保存",
+      "publishedAt": "2026-09-24T09:54:34.000Z"
+    },
+    {
+      "id": "2038889535497761094-1",
+      "name": "2026年4月 · 横屏月历",
+      "device": "desktop",
+      "compatibleDevices": [
+        "desktop",
+        "tablet"
+      ],
+      "fitNote": "2560×1440 横屏原图，适合16:9电脑；平板可横屏使用，其他比例需留边或裁切。",
+      "width": 2560,
+      "height": 1440,
+      "sourceUrl": "https://x.com/chiikawa_pt_jp/status/2038889535497761094",
+      "originalImageUrl": "https://pbs.twimg.com/media/HEuRRs0bAAAr8IJ?format=jpg&name=orig",
+      "author": "ちいかわぽけっと公式",
+      "image": "/assets/wallpapers/2038889535497761094-1.jpg",
+      "images": [],
+      "sourceOnly": true,
+      "license": "官方公开壁纸 · 原图请前往来源保存",
+      "publishedAt": "2026-03-31T08:02:00.000Z"
+    },
+    {
+      "id": "2049746071740653833-1",
+      "name": "2026年5月 · 横屏月历",
+      "device": "desktop",
+      "compatibleDevices": [
+        "desktop",
+        "tablet"
+      ],
+      "fitNote": "2560×1440 横屏原图，适合16:9电脑；平板可横屏使用，其他比例需留边或裁切。",
+      "width": 2560,
+      "height": 1440,
+      "sourceUrl": "https://x.com/chiikawa_pt_jp/status/2049746071740653833",
+      "originalImageUrl": "https://pbs.twimg.com/media/HHD7a3ya0AAfg_7?format=jpg&name=orig",
+      "author": "ちいかわぽけっと公式",
+      "image": "/assets/wallpapers/2049746071740653833-1.jpg",
+      "images": [],
+      "sourceOnly": true,
+      "license": "官方公开壁纸 · 原图请前往来源保存",
+      "publishedAt": "2026-04-30T07:02:00.000Z"
+    },
+    {
+      "id": "2060980096400584934-1",
+      "name": "2026年6月 · 横屏月历",
+      "device": "desktop",
+      "compatibleDevices": [
+        "desktop",
+        "tablet"
+      ],
+      "fitNote": "2560×1440 横屏原图，适合16:9电脑；平板可横屏使用，其他比例需留边或裁切。",
+      "width": 2560,
+      "height": 1440,
+      "sourceUrl": "https://x.com/chiikawa_pt_jp/status/2060980096400584934",
+      "originalImageUrl": "https://pbs.twimg.com/media/HJjklb4bIAAkbMM?format=jpg&name=orig",
+      "author": "ちいかわぽけっと公式",
+      "image": "/assets/wallpapers/2060980096400584934-1.jpg",
+      "images": [],
+      "sourceOnly": true,
+      "license": "官方公开壁纸 · 原图请前往来源保存",
+      "publishedAt": "2026-05-31T07:02:00.000Z"
+    },
+    {
+      "id": "2071851734574805382-1",
+      "name": "2026年7月 · 横屏月历",
+      "device": "desktop",
+      "compatibleDevices": [
+        "desktop",
+        "tablet"
+      ],
+      "fitNote": "2560×1440 横屏原图，适合16:9电脑；平板可横屏使用，其他比例需留边或裁切。",
+      "width": 2560,
+      "height": 1440,
+      "sourceUrl": "https://x.com/chiikawa_pt_jp/status/2071851734574805382",
+      "originalImageUrl": "https://pbs.twimg.com/media/HL-Erp_bUAA3r1R?format=jpg&name=orig",
+      "author": "ちいかわぽけっと公式",
+      "image": "/assets/wallpapers/2071851734574805382-1.jpg",
+      "images": [],
+      "sourceOnly": true,
+      "license": "官方公开壁纸 · 原图请前往来源保存",
+      "publishedAt": "2026-06-30T07:02:01.000Z"
+    }
+  ]
+}
